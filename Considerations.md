@@ -1,7 +1,7 @@
 <i>Suggestions for consideration</i>
 
-<h4>Building an ASMR app with a focus on Hindi and other Indian languages sounds like a unique and interesting project. 
-To ensure the success of your app, consider the following features and strategies:</h4>
+<h3>Building an ASMR app with a focus on Hindi and other Indian languages sounds like a unique and interesting project. 
+To ensure the success of your app, consider the following features and strategies:</h3>
 
 User-friendly Interface:
 Create an intuitive and visually appealing interface to enhance the user experience.
@@ -61,8 +61,8 @@ Leverage social media platforms and collaborations to increase visibility.
 
 <i>By incorporating these features and strategies, you can create a comprehensive ASMR app that caters to a diverse audience and fosters a vibrant community of both listeners and creators.</i>
 
-<h4> Creating an ASMR app with language support and enhanced features sounds like a valuable and unique proposition, especially considering the limitations of existing platforms like Reddit. 
-To further differentiate your app and address specific pain points, here are some additional suggestions:</h4>
+<h3> Creating an ASMR app with language support and enhanced features sounds like a valuable and unique proposition, especially considering the limitations of existing platforms like Reddit. 
+To further differentiate your app and address specific pain points, here are some additional suggestions:</h3>
 
 In-App Audio Player:
 Unlike Reddit, implement a built-in audio player that allows users to play ASMR content directly within the app, providing a seamless and immersive experience.
